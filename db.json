@@ -1,0 +1,373 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "firstName": "Mohit",
+      "lastName": "Nagpure",
+      "designation": "UI Designer",
+      "address": "Gondia",
+      "employeeCode": "EMP-16"
+    },
+    {
+      "firstName": "Sachin",
+      "lastName": "Pantwane",
+      "designation": "PHP Developer",
+      "address": "Nagpur",
+      "employeeCode": "EMP-18",
+      "id": 2
+    },
+    {
+      "firstName": "Yask",
+      "lastName": "Patel",
+      "designation": "Joomla Developer",
+      "address": "Gujrat",
+      "employeeCode": "EMP-30",
+      "id": 3
+    },
+    {
+      "firstName": "Dhanshri",
+      "lastName": "Nandanwar",
+      "designation": "PHP Developer",
+      "address": "Nagpur",
+      "employeeCode": "EMP-28",
+      "id": 4
+    },
+    {
+      "firstName": "Makrand",
+      "lastName": "Nikhare",
+      "designation": "Quality Analyst",
+      "address": "Pune",
+      "employeeCode": "EMP-20",
+      "id": 5
+    },
+    {
+      "firstName": "Aakansha ",
+      "lastName": "Agrawal",
+      "designation": "Buisness Analyst",
+      "address": "Delhi",
+      "employeeCode": "EMP-12",
+      "id": 6
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Mohit"
+    },
+    {
+      "id": 2,
+      "name": "Darsh"
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "blogCategory": "LIFE LESSONS",
+      "blogName": "Three Things in Life That Aren’t Worth The Effort",
+      "blogDescription": "Internet tensions are a vacuum of your time Six months ago, a friend announced on her Facebook feed, “If you plan on voting for Biden, unfriend me now!",
+      "blogCreated": "mohit test"
+    },
+    {
+      "id": 2,
+      "blogCategory": "CAREER HANDBOOK",
+      "blogName": "The Fate Of Elon Musk’s Assistant Is A Cautionary Tale For Negotiating Salary",
+      "blogDescription": "This is really discipline in a nutshell. By picturing ourselves on the other side, we don’t have to choose what is immediately easy.",
+      "blogCreated": "Nick Wolny"
+    },
+    {
+      "id": 3,
+      "blogCategory": "SELF IMPROVEMENT",
+      "blogName": "Five Signs of a Highly Intelligent Person",
+      "blogDescription": "A few years ago, one of my children became obsessed with roller coasters. He watched video after video to study them from afar. He designed his own in computer games play.",
+      "blogCreated": "Sean Kernan"
+    },
+    {
+      "id": 4,
+      "blogCategory": "Technology",
+      "blogName": "Creating a design system in Figma: a practical guide ",
+      "blogDescription": "You’ve read all your free member-only stories. Become a member to get unlimited access and support the voices you want to hear more from.",
+      "blogCreated": "Marc Andrew"
+    },
+    {
+      "id": 5,
+      "blogCategory": "Design",
+      "blogName": "How to create mesh gradients in Sketch",
+      "blogDescription": "I think it’s because they give a sense of natural lightning, and a super cool combination of “smooth sharpness” and blurriness that makes them feel sooo natural to us.",
+      "blogCreated": "Oscar Oto"
+    },
+    {
+      "id": 6,
+      "blogCategory": "Technology",
+      "blogName": "Psychological principles for every product designer",
+      "blogDescription": "Itisn’t a mystery that a large part of delivering a highly successful user experience is understanding what the customer wants/needs along with the cognition that consequently gets customers thinking about what they want/need.",
+      "blogCreated": "Canvs Editorial"
+    },
+    {
+      "blogID": null,
+      "blogCategory": "stringa",
+      "blogName": "stringa",
+      "blogDescription": "stringa",
+      "blogCreated": "stringa",
+      "id": 7
+    },
+    {
+      "blogID": null,
+      "blogCategory": "new",
+      "blogName": "newa",
+      "blogDescription": "stringnew",
+      "blogCreated": "new2",
+      "id": 8
+    },
+    {
+      "blogID": null,
+      "blogCategory": "new blog",
+      "blogName": "test",
+      "blogDescription": "this is my first blog\n",
+      "blogCreated": "mohit",
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 12,
+      "blogCategory": "new blog test",
+      "blogName": "technology test",
+      "blogDescription": "this my second blog test",
+      "blogCreated": "sandip test"
+    },
+    {
+      "id": 13,
+      "blogCategory": "mohit",
+      "blogName": "mohit",
+      "blogDescription": "mohit",
+      "blogCreated": "mohit"
+    }
+  ],
+  "allEmployee": [
+    {
+      "id": 1,
+      "empName": "Nidhin Thomas",
+      "role": "UX Designer",
+      "address": "hydrabad",
+      "mobileNumber": 3425789076,
+      "joiningData":"20 Jan 2019",
+      "department": "Design"
+    },
+    {
+      "id": 2,
+      "empName": "Mohit Nagpure",
+      "role": "UI Developer",
+      "address": "Gondia",
+      "mobileNumber": 8275398156,
+      "joiningData":"1 April 2019",
+      "department": "Design"
+    },
+    {
+      "id": 3,
+      "empName": "Harshita Jain",
+      "role": "Buisness Analyst",
+      "address": "Pune",
+      "mobileNumber": 3425789076,
+      "joiningData":"20 Jan 2021",
+      "department": "Analyst"
+    },
+    {
+      "id": 4,
+      "empName": "Amit Kherwar",
+      "role": "Angular Developer",
+      "address": "Haryana",
+      "mobileNumber": 3425789076,
+      "joiningData":"15 Dec 2020",
+      "department": "Developemnt"
+    },
+    {
+      "id": 5,
+      "empName": "Damini Jaiswal",
+      "role": "Javascript Developer",
+      "address": "Ujjain",
+      "mobileNumber": 3425789076,
+      "joiningData":"12 Jan 2020",
+      "department": "Developemnt"
+    },
+    {
+      "id": 6,
+      "empName": "Sandip Pawar",
+      "role": "Angular Developer",
+      "address": "Satara",
+      "mobileNumber": 3425789076,
+      "joiningData":"20 May 2019",
+      "department": "Developemnt"
+    },
+    {
+      "id": 7,
+      "empName": "Nilesh Kasbe",
+      "role": "Quality Analyst",
+      "address": "Pune",
+      "mobileNumber": 3425789076,
+      "joiningData":"15 Feb 2018",
+      "department": "QA"
+    }
+  ],
+  "allManager": [
+    {
+      "id": 1,
+      "manName": "Ismail",
+      "department": "UI/UX",
+      "address": "Lucknow",
+      "mobileNumber": 7845120369
+    },
+    {
+      "id": 2,
+      "manName": "Pratik Parihar",
+      "department": "Developemnt",
+      "address": "Mumbai",
+      "mobileNumber": 8213645987
+    },
+    {
+      "id": 3,
+      "manName": "Prachi Singh",
+      "department": "Product Head",
+      "address": "Chennai",
+      "mobileNumber": 9645781023
+    }
+  ],
+  "allCompany": [
+    {
+      "id": 1,
+      "name": "DCT Pune",
+      "service": "Web Developemnt",
+      "address": "Pune",
+      "contact": "020-123456",
+      "allManager": [
+        {
+          "id": 1,
+          "manName": "Ismail",
+          "department": "UI/UX",
+          "allEmployee": [
+            {
+              "id": 1,
+              "empName": "Nidhin Thomas",
+              "role": "UX Designer",
+              "address": "hydrabad",
+              "mobileNumber": 3425789076
+            },
+            {
+              "id": 2,
+              "empName": "Mohit Nagpure",
+              "role": "UI Developer",
+              "address": "Gondia",
+              "mobileNumber": 8275398156
+            },
+            {
+              "id": 3,
+              "empName": "Harshita Jain",
+              "role": "Buisness Analyst",
+              "address": "Pune",
+              "mobileNumber": 3425789076
+            },
+            {
+              "id": 4,
+              "empName": "Amit Kherwar",
+              "role": "Angular Developer",
+              "address": "Haryana",
+              "mobileNumber": 3425789076
+            },
+            {
+              "id": 5,
+              "empName": "Damini Jaiswal",
+              "role": "Javascript Developer",
+              "address": "Ujjain",
+              "mobileNumber": 3425789076
+            },
+            {
+              "id": 6,
+              "empName": "Sandip Pawar",
+              "role": "Angular Developer",
+              "address": "Satara",
+              "mobileNumber": 3425789076
+            },
+            {
+              "id": 7,
+              "empName": "Nilesh Kasbe",
+              "role": "Quality Analyst",
+              "address": "Pune",
+              "mobileNumber": 3425789076
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "manName": "Pratik Parihar",
+          "department": "Developemnt",
+          "allEmployee": [
+            {
+              "id": 1,
+              "empName": "Harish Santwani",
+              "role": "Sr. Software Engineer",
+              "address": "Pune",
+              "mobileNumber": 3425789076
+            },
+            {
+              "id": 3,
+              "empName": "Sachin Pantwane",
+              "role": "PHP Developer",
+              "mobileNumber": 3425789076
+            },
+            {
+              "id": 4,
+              "empName": "Deepak Kumar",
+              "role": "Dot net Developer",
+              "mobileNumber": 3425789076
+            },
+            {
+              "id": 5,
+              "empName": "Chetan Dasre",
+              "role": "Dot net Developer",
+              "mobileNumber": 3425789076
+            },
+            {
+              "id": 6,
+              "empName": "Dhanshree Nandanwar",
+              "role": "PHP Developer",
+              "mobileNumber": 3425789076
+            },
+            {
+              "id": 8,
+              "empName": "Yask Patel",
+              "role": "Joomla Developer",
+              "mobileNumber": 3425789076
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "manName": "Prachi Singh",
+          "department": "Product Head",
+          "allEmployee": [
+            {
+              "id": 1,
+              "empName": "Swati Kumari",
+              "role": "Sr. Buisness Analyst",
+              "address": "Delhi",
+              "mobileNumber": 3425789076
+            },
+            {
+              "id": 3,
+              "empName": "Sweta Singh",
+              "role": "Sr. Buisness Analyst",
+              "mobileNumber": 3425789076
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dcafe Pune",
+      "service": "Live Video OTT Platform",
+      "address": "Pune",
+      "contact": "020-456788"
+    }
+  ]
+}
